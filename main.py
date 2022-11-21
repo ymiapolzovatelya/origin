@@ -1,1 +1,1 @@
-print('Конь-колодезь Вячеслав')
+print('My first git-repo')
